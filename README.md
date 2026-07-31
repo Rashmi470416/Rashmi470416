@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Rashmi470416/Rashmi470416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Rashmita Khatua 👋 
 
-Here are some ideas to get you started:
+### 📱 Mobile Application Developer | 🌐 Open Source Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vcenter=true&width=500&lines=Flutter+%26+Dart+Enthusiast;Crafting+Cross-Platform+Apps;Open+Source+Contributor;Creator+of+unified_dropdown)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+### 🌟 Featured Open Source Project
+
+<div align="center">
