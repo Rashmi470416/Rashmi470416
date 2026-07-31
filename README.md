@@ -21,7 +21,8 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-<img align="right" width="420" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+<img align="right" width="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 ```yaml
 Name: Rashmita Khatua
 
@@ -68,3 +69,89 @@ Mission:
 ⚡ Besides coding, I love contributing to the Flutter community by building reusable open-source packages and sharing knowledge with fellow developers.
 
 🎯 My goal is to create applications that are fast, reliable, visually appealing, and capable of making a positive impact on users worldwide.
+
+---
+
+# 🌟 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 Mobile Development
+
+- Flutter Development
+- Android & iOS Apps
+- Firebase Integration
+- REST API Integration
+- Responsive UI
+- Material Design 3
+- State Management
+
+</td>
+
+<td width="50%">
+
+### ⚡ Software Engineering
+
+- Clean Architecture
+- BLoC Pattern
+- Provider
+- Riverpod
+- MVC / MVVM
+- Dependency Injection
+- Performance Optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💡 My Philosophy
+
+> 💙 "Great applications are not just built with code—they're crafted with creativity, performance, simplicity, and a passion for solving real-world problems."
+
+---
+
+<div align="center">
+
+### ⚡ Fun Facts
+
+🌍 Love Open Source
+
+📱 Flutter Enthusiast
+
+🎨 UI Lover
+
+🚀 Fast Learner
+
+💡 Problem Solver
+
+☕ Coffee + Code = Productivity
+
+🎯 Clean Code Advocate
+
+✨ Always Curious
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RashmitaKhatua&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&width=700&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+Something+Amazing!;Flutter+❤️+Open+Source"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
