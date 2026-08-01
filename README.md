@@ -24,7 +24,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
-<img align="right" width="420" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+<img align="right" width="420" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 
 
